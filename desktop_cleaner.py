@@ -1,7 +1,8 @@
 import os
 import re
 
-directory = os.getcwd()
-if directory != "desktop":
-    os.chdir("directory")
-    
+os.chdir("/Users")
+print(os.getcwd())
+os.chdir("/Users/paolopedrigal/Desktop")
+  
+print(os.listdir())
