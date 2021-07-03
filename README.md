@@ -1,4 +1,4 @@
-# directory-cleaner
+# desktop-cleaner
 To clean clutter that is on your machine's desktop.
 
 Tasks:
