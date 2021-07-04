@@ -1,5 +1,5 @@
 # directory-cleaner
-To clean clutter that is on your machine's desktop.
+To clean clutter that is your folder.
 
 Tasks:
 1. To put all screenshots in a single folder, called "Screenshots", sorted in order by date
